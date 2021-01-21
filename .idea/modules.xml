@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Assignment4WindowHandlingAssignment/Assignment4WindowHandlingAssignment.iml" filepath="$PROJECT_DIR$/../Assignment4WindowHandlingAssignment/Assignment4WindowHandlingAssignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/TechniquesToAutomateAjaxcallsChildWindowsIFrame.iml" filepath="$PROJECT_DIR$/TechniquesToAutomateAjaxcallsChildWindowsIFrame.iml" />
     </modules>
   </component>
